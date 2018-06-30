@@ -1,17 +1,17 @@
 [
 {
-"id": "001"
-"type": "Room"
+"id": "001",
+"type": "Room",
 "name": "Room1"
 },
 {
-"id": "002"
-"type": "Room"
+"id": "002",
+"type": "Room",
 "name": "Room2"
 },
 {
-"id": "003"
-"type": "Room"
+"id": "003",
+"type": "Room",
 "name": "Room3"
 }
 ]
