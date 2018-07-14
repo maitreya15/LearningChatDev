@@ -1,0 +1,17 @@
+  //following code is for search and display using azure-cosmosDB
+                //   SearchResult searchResult = await searchService.SearchByRoom(message.Text);
+                //   if (searchResult.value.Length != 0)
+                //    {
+                //    HeroCard RoomCard = new HeroCard();
+
+                //    RoomCard.Title = searchResult.value[0].Id;
+                //    //RoomCard.Subtitle = searchResult.value[0].Type;
+
+                //    Activity reply = ((Activity)message).CreateReply();
+
+                //    reply.Text = "Rooms that matches the Search Criteria ";
+                //    reply.Attachments = new List<Attachment>();
+                //    reply.Attachments.Add(RoomCard.ToAttachment());
+
+                //    await context.PostAsync(reply);
+                //}
